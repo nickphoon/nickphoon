@@ -2,7 +2,7 @@
 Year 3 Student pursuing a degree in Software Engineering in Singapore Institute of Technology with a strong foundation in programming languages including Python, Javascript, Java, C/C++, C#, SQL, and Kotlin. Experienced in developing machine learning solutions for the Singapore Armed Forces (SAF), leveraging object detection algorithms to automate and optimize daily operations. Skilled in building robust applications using modern frameworks such as Django, Flask, and React, with a focus on delivering user-centric and efficient software solutions.
 
 ## 😎 Portfolio:
-https://nickphoon.github.io/
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nickphoon.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nickpkj/) 
